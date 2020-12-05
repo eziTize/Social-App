@@ -1,6 +1,6 @@
 # social_app
 
-Social Networking application using flutter.
+Social Networking application using flutter and firebase.
 
 ## Getting Started
 
